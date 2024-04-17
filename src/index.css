@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 1em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+:root {
+  --primary-color: hsl(0, 0%, 17%);
+  --white-text: whitesmoke;
+  --standard-color: hsla(177, 31%, 34%, 0.918);
+  --hover-color: rgb(60, 115, 112);
+}
+
+body {
+  color: var(--primary-color);
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+a {
+  color: var(--primary-color);
+}

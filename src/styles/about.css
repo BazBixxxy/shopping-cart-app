@@ -1,0 +1,52 @@
+.about {
+  padding: 1rem;
+  height: 100vh;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.125)), to(rgba(0, 0, 0, 0.158))),
+    url(../../public/background.jpg);
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.125), rgba(0, 0, 0, 0.158)),
+    url(../../public/background.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.125), rgba(0, 0, 0, 0.158)),
+    url(../../public/background.jpg);
+  background-size: cover;
+  background-position: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: var(--white-text);
+}
+
+
+.home-container {
+  margin-top: 4rem;
+  margin-left: 3rem;
+  margin-right: 2.5rem;
+  color: var(--white-text);
+}
+
+.about h2 {
+  font-size: 2.5rem;
+  margin-bottom: 0.4em;
+}
+
+.about p {
+  font-size: 1.4rem;
+  margin-bottom: 2rem;
+}
+
+.about button {
+  color: whitesmoke;
+  background-color: hsla(177, 31%, 34%, 0.918);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.about button:hover {
+  background-color: rgb(60, 115, 112);
+}

@@ -1,0 +1,94 @@
+.cart-page {
+  margin-top: 8rem;
+  margin-bottom: 5rem;
+  margin-left: 3rem;
+  margin-right: 2.5rem;
+  padding: 1rem;
+  /* background-color: whitesmoke; */
+}
+
+.cart-display {
+  margin-bottom: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  /* flex-direction: column; */
+  gap: 3rem;
+}
+
+.cart-display h4 {
+  font-weight: 600;
+}
+
+.view {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 2rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: 1px solid lightgray;
+  /* width: 80%; */
+  /* min-width: 300px; */
+  max-width: 500px;
+  position: relative;
+}
+
+.view .close {
+  position: absolute;
+  top: 0.3rem;
+  right: 1rem;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+.view img {
+  width: 5rem;
+  height: 5rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.view > .bottom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 0.7rem;
+}
+
+.view .bottom-cart {
+  /* margin-top: 1rem; */
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 1rem;
+}
+
+.view button {
+  background-color: var(--standard-color);
+}
+
+.payment {
+  background-color: var(--standard-color);
+  padding: 0.7rem;
+  border-radius: 5px;
+  color: var(--white-text);
+}
+
+.payment:hover {
+  background-color: var(--hover-color);
+}
