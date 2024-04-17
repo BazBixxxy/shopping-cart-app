@@ -2,56 +2,56 @@
   {
     "id": 1,
     "name": "Back pack",
-    "pic": "../public/backpack.jpg",
+    "pic": "../../public/backpack.jpg",
     "description": "Adventure awaits with our sleek backpack! Perfect for urban commutes or outdoor escapades, this versatile pack offers ample storage and comfort. With padded straps and multiple compartments, it keeps your essentials organized and secure. Crafted with durable materials, it's ready to accompany you on all your journeys.",
     "price": 25
   },
   {
     "id": 2,
     "name": "Necklace",
-    "pic": "../public/necklace.jpg",
+    "pic": "../../public/necklace.jpg",
     "description": "Elevate your style with our exquisite necklace. Each piece is meticulously crafted with precision and passion, showcasing timeless elegance and sophistication. Whether for a special occasion or everyday glam, our necklaces add a touch of luxury to any ensemble. Make a statement with grace and beauty.",
     "price": 300
   },
   {
     "id": 3,
     "name": "Lava lamp",
-    "pic": "../public/lamp.jpg",
+    "pic": "../../public/lamp.jpg",
     "description": "Transform any space into a mesmerizing oasis with our lava lamp. Watch as vibrant colors swirl and dance within the soothing, lava-filled chamber, creating a captivating ambiance. Perfect for relaxation, meditation, or adding a retro flair to your décor, our lava lamp is a conversation starter and mood enhancer.",
     "price": 60
   },
   {
     "id": 4,
     "name": "Iphone",
-    "pic": "../public/iphone.jpg",
+    "pic": "../../public/iphone.jpg",
     "description": "Experience the pinnacle of technology with the iPhone 15 Pro Max. Seamlessly blending power and elegance, this flagship device redefines smartphone innovation. With its stunning display, advanced camera system, and lightning-fast performance, it's your ultimate companion for productivity, creativity, and entertainment. Elevate your mobile experience with the iPhone 15 Pro Max.",
     "price": 1200
   },
   {
     "id": 5,
     "name": "Play Station 5",
-    "pic": "../public/ps5.jpg",
+    "pic": "../../public/ps5.jpg",
     "description": "Immerse yourself in the future of gaming with the PlayStation 5. Featuring cutting-edge technology and lightning-fast load times, the PS5 delivers unparalleled performance and breathtaking graphics. Dive into a world of immersive gameplay, whether solo or with friends, and experience gaming like never before. Elevate your entertainment with the PlayStation 5.",
     "price": 1500
   },
   {
     "id": 6,
     "name": "Samsung OLED",
-    "pic": "../public/tv.jpg",
+    "pic": "../../public/tv.jpg",
     "description": "Indulge in the ultimate viewing experience with our Samsung OLED TV. Impossibly thin and with stunning picture quality, every scene comes to life with vibrant colors and deep contrasts. Whether you're watching movies, gaming, or streaming your favorite shows, immerse yourself in crystal-clear detail and cinematic sound. Elevate your home entertainment with Samsung OLED technology.",
     "price": 3200
   },
   {
     "id": 7,
     "name": "T-shirts",
-    "pic": "../public/tshirts.jpg",
+    "pic": "../../public/tshirts.jpg",
     "description": "Discover comfort and style with our collection of t-shirts. Made from premium, breathable fabrics, each shirt offers a perfect blend of comfort and durability. Whether you prefer classic designs or trendy prints, our t-shirts are versatile essentials for any wardrobe. Elevate your casual look with effortless sophistication and unbeatable comfort.",
     "price": 8
   },
   {
     "id": 8,
     "name": "JBL flip-5",
-    "pic": "../public/jbl.jpg",
+    "pic": "../../public/jbl.jpg",
     "description": "Take your music anywhere with the JBL Flip 5 Mini Bluetooth Speaker. Compact yet powerful, it delivers immersive sound with deep bass, perfect for any occasion. With its rugged design and waterproof construction, this speaker is built to withstand any adventure. Connect wirelessly and enjoy up to 12 hours of continuous playback. Elevate your audio experience with the JBL Flip 5.",
     "price": 400
   }
